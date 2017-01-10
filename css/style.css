@@ -36,3 +36,10 @@ p {
 	font-size: 1em;
 	text-align: center;
 }
+
+.portfolio_img{
+	display: inline;
+	width: 325px;
+	margin: 15px;
+}
+
