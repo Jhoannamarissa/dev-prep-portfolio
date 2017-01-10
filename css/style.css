@@ -1,3 +1,38 @@
 body {
 	background-color: #FFFAF0;
 }
+#myname{
+	text-align: center;
+}
+
+#myphoto {
+
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2em;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+
+
+
+}
+h2{ 
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	text-align: center;
+	text-transform: uppercase;
+ }
+
+p {
+	font-family: century;
+	font-size: 1em;
+	text-align: center;
+}
